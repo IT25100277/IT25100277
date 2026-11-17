@@ -66,7 +66,7 @@ The project focused on developing a system to support driving school registratio
 - Gained practical experience in programming, problem-solving, and teamwork.
 
 **Skills Developed:** Software Development, Problem-Solving, Team Collaboration, and Project Integration.
-
+[View Group Project](https://github.com/IT25101687/Driving-School-registration-and-sheduling-system)
 *Project developed as part of Year 1, Semester 2 academic coursework.*
 
 ---
